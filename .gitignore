@@ -1,0 +1,7 @@
+# Build output and caches.
+/hashline
+__pycache__/
+.ruff_cache/
+
+# Temporary files.
+/tmp/
